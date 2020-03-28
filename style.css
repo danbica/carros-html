@@ -1,0 +1,68 @@
+h1{
+    color: rgb(245, 6, 6);
+    font-family: Arial;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.foto10{
+    width: 500px;
+    border: solid 5px rgb(3, 3, 3);
+}
+
+.foto9{
+    width: 500px;
+    border: solid 5px rgb(72, 72, 235);
+}
+
+.foto8{
+    width: 500px;
+    border: solid 5px rgb(3, 3, 3);
+}
+
+.foto7{
+    width: 500px;
+    border: solid 5px rgb(216, 29, 29);
+}
+
+.foto6{
+    width: 500px;
+    border: solid 5px rgb(88, 78, 78);
+}
+
+.foto5{
+    width: 500px;
+    border: solid 5px red;
+}
+
+.foto4{
+    width: 500px;
+    border: solid 5px grey;
+}
+
+.foto3{
+    width: 500px;
+    border: solid 5px rgb(85, 83, 83);
+}
+
+.foto2{
+    width: 500px;
+    border: solid 5px black ;
+}
+
+img{
+    width: 500px;
+    border: solid black;
+}
+
+h3{
+    color: #1C1C1C;
+    font-size: 30px;
+}
+
+body{
+    background-color: #DCDCDC;
+}
